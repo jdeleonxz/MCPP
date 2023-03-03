@@ -11,6 +11,4 @@ encuestas <- read_excel("Registros encuestas (1).xlsx") # DB from the survey. I 
 licencias <- read_excel("licencias a revisar.xlsx") # licences to check and transform some data on the encuestas DB
 
 
-library("PDE")
-PDE_pdfs2table()
 
